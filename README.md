@@ -19,5 +19,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Contact
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/joaovitorpinheiros/?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?style=for-the-badge&logo=gmail&logoColor=white)
