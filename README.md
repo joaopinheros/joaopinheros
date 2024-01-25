@@ -19,5 +19,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Contact
-![LinkedIn](https://www.linkedin.com/in/joaovitorpinheiros/?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?style=for-the-badge&logo=gmail&logoColor=white)
+<a> href = "https://www.linkedin.com/in/joaovitorpinheiros/"
+![LinkedIn](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a> href = "mailto:joaov.pinheiro01@gmail.com"
+![Gmail](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
+
+
+
+
