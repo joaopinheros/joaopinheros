@@ -3,7 +3,7 @@
 
 ### Salve, galera!👋
 
-- Sou um entusiasta do desenvolvimento Java vivendo por desafios e aprendizado constante.☕
+- Sou um entusiasta do desenvolvimento Java vivendo por desafios e aprendizados constantes.☕
 - Graduação em Sistemas de Informação - UFVJM 🎓
 - Minha cor favorita é verde!🍀
 
