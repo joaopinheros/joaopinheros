@@ -1,9 +1,9 @@
 # João Pinheiro
-## Desenvolvedor Java - 21 anos
+## Desenvolvedor fullstack- 21 anos
 
 ### Salve, galera!👋
 
-- Sou um entusiasta do desenvolvimento Java vivendo por desafios e aprendizados constantes.☕
+- Desenvolvendo Java e Outros.☕
 - Graduação em Sistemas de Informação - UFVJM 🎓
 - Minha cor favorita é verde!🍀
 
