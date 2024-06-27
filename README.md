@@ -1,5 +1,5 @@
 # João Pinheiro
-## Desenvolvedor fullstack- 21 anos
+## Desenvolvedor Backend- 21 anos
 
 ### Salve, galera!👋
 
